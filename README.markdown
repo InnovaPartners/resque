@@ -1,3 +1,14 @@
+# Fork of Resque
+
+The **only** reason this fork exists is to merge [sj26:logfile](https://github.com/sj26/resque/commit/05e4c5e6f92fe62b25db40984b20dad4b9f870d8) 
+into resque/master and give me something "stable" I can use. In production. 
+
+Once BACKGROUND and LOGFILE are both merged into Resque proper, this fork is going away.
+
+And now, your regularly scheduled README:
+
+---
+
 Resque
 ======
 
